@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0753abfef84e71b42855832092d01fe2, type: 3}
+  m_Name: IronCastle
+  m_EditorClassIdentifier: 
+  gameObject: {fileID: 0}
+  itemName: Iron Castle
+  icon: {fileID: 21300000, guid: e61030d58c808b945b43372e0ad7b374, type: 3}
+  price: 1000
+  type: 2
+  description: 
+  defenseHp: 50

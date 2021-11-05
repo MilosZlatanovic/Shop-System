@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3acff0f616d11f4d8015e1c772d273f, type: 3}
+  m_Name: New Default Object
+  m_EditorClassIdentifier: 
+  itemName: Level 1000
+  icon: {fileID: -4625853637920191918, guid: c20c218a241fba5439a8b1ec65b001fa, type: 3}
+  price: 1000
+  type: 6
+  description: 
